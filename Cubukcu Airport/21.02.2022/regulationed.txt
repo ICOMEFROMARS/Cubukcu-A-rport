@@ -1,0 +1,4 @@
+ahmet	guler	7A	1	11.02.2022	TK-2134
+eren	zulal	4A	1	11.02.2022	TK-2134
+hilal	erva	7C	1	21.02.2022	TK-2134
+|ren	zulal	4A	1	11.02.2022	TK-2134

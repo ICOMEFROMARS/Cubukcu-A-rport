@@ -1,0 +1,16 @@
+ceren kunduz	6B	2	18.02.2022	TK-1818
+eren cubukcu	3A	3	22.02.2022	TK-2514
+hilal erva	6C	3	22.02.2022	TK-2514
+figen cubukcu	5F	3	22.02.2022	TK-2514
+mustafa cubukcu	5D	3	22.02.2022	TK-2514
+esila gunok	1C	3	22.02.2022	TK-2514
+ahmet guler	4D	3	22.02.2022	TK-2514
+naber moruk	5C	3	22.02.2022	TK-2514
+meryem kalem	3B	3	22.02.2022	TK-2514	erenair
+nil dere	4F	3	22.02.2022	TK-2514	erenair
+metin kara	1A	2	23.02.2022	TK-3214	hilalair
+ali deniz	4C	2	23.02.2022	TK-3214	hilalair
+deniz gozutok	6F	2	23.02.2022	TK-3214	hilalair
+cengiz duner	7B	2	23.02.2022	TK-3214	hilalair
+
+atilla colak	7D	3	22.02.2022	TK-2514

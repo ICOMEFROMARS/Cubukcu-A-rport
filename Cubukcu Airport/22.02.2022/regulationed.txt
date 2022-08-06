@@ -1,0 +1,8 @@
+atilla	colak	7D	3	22.02.2022	TK-2514
+deniz	kara	3C	3	22.02.2022	TK-2514
+eren	cubukcu	3A	3	22.02.2022	TK-2514
+esila	gunok	1C	3	22.02.2022	TK-2514
+hilal	cubukcu	3D	3	22.02.2022	TK-2514
+meryem	kalem	6B	3	22.02.2022	TK-2514
+nil	dere	4F	3	22.02.2022	TK-2514
+poyraz  akın	5D	3	22.02.2022	TK-2514
