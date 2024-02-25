@@ -1,4 +1,4 @@
-# Cubukcu-Aırport
+# Cubukcu-Airport
 
 Hello guys. This is my first project in C and it's a typical airport project. It contains a lot of things like in real life, that is, it is a simulation. They are divided into two as the Company and the Passenger side, and they are divided into sections within themselves. For continuity, every time the code runs, it adds a new day file (22.02.2022) and adds the Ports in it.
 
